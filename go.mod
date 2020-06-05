@@ -1,4 +1,4 @@
-module github.com/ElectronSz/tasker
+module github.com/ElectronSz/GoMongoCli
 
 go 1.14
 
